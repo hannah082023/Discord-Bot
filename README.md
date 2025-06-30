@@ -26,7 +26,9 @@ cd Discord-Bot
 ```
 
 2. 安裝所有 `package.json` 中的套件
-```npm install```
+```
+npm install
+```
 
 3. 設定環境變數
 建立 .env 檔案，填入以下內容：
