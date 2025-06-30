@@ -4,9 +4,9 @@
 ## 主要功能介紹
 支援 Slash 指令，並能自動載入 commands 資料夾中的指令模組
 ### Slash Commands of 活躍羅伯特
-`/ping` 回覆 Pong!
-`/user` 提供使用者的資訊
-`/server` 提供伺服器的資訊
+* `/ping` 回覆 Pong!
+* `/user` 提供使用者的資訊
+* `/server` 提供伺服器的資訊
 
 ### 簡單文字指令回覆
 `!hello` 回覆 Hello!
